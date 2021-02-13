@@ -1,0 +1,21 @@
+The two(2) main problems with the development of software:
+
+(1) the need to reuse software components as much as possible 
+(2) the need to establish disciplined ways of working.
+
+Ada reliability. 
+
+(3) the strong typing and related features ensure that programs contain few surprises; 
+(4) most errors are detected at compile time 
+(5) those that remain many are detected by run-time constraints.
+(6) the compile-time checking extends across compilation unit boundaries.
+
+Three(3) types of abstraction:
+
+(7) ‘expression abstraction’. This means the use of the machine registers to evaluate the expression was completely hidden from the programmer.
+
+(8) ‘control abstraction’. This means the compiler generates the gotos and labels which would have to be explicitly used in early versions of languages such as Fortran.
+
+(9) ‘data abstraction’. This means separating the details of the representation of data from the abstract operations defined upon the data.
+
+

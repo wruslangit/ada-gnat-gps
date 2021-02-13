@@ -1,0 +1,47 @@
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github$ cd gps-ada2012-ch01/
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github/gps-ada2012-ch01$ ls -al
+total 44
+drwxrwxr-x  8 wruslan wruslan 4096 Feb 13 13:28 .
+drwxrwxr-x 18 wruslan wruslan 4096 Feb 13 11:35 ..
+drwxrwxr-x  2 wruslan wruslan 4096 Feb 13 12:35 docs
+drwxrwxr-x  2 wruslan wruslan 4096 Feb 13 13:01 exec
+drwxrwxr-x  2 wruslan wruslan 4096 Feb 13 13:25 figures
+drwxrwxr-x  8 wruslan wruslan 4096 Feb 13 11:33 .git
+-rw-rw-r--  1 wruslan wruslan 4255 Feb 13 11:48 gps_ada2012_ch01.gpr
+drwxrwxr-x  2 wruslan wruslan 4096 Feb 13 13:21 obj
+-rw-rw-r--  1 wruslan wruslan  546 Feb 13 13:28 README.md
+drwxrwxr-x  2 wruslan wruslan 4096 Feb 13 13:21 src
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github/gps-ada2012-ch01$ 
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github/gps-ada2012-ch01$ tree ./
+./
+├── docs
+│   └── text-ada2012-chap01.txt
+├── exec
+│   └── gpsmain_ada2012_ch01.adx
+├── figures
+│   ├── Screenshot from 2021-02-13 13-19-17.png
+│   ├── Screenshot from 2021-02-13 13-19-53.png
+│   ├── Screenshot from 2021-02-13 13-20-27.png
+│   └── Screenshot from 2021-02-13 13-21-03.png
+├── gps_ada2012_ch01.gpr
+├── obj
+│   ├── b__gpsmain_ada2012_ch01.adb
+│   ├── b__gpsmain_ada2012_ch01.ads
+│   ├── b__gpsmain_ada2012_ch01.ali
+│   ├── b__gpsmain_ada2012_ch01.o
+│   ├── gnatinspect.db
+│   ├── gps_ada2012_ch01-loc.xml
+│   ├── gpsmain_ada2012_ch01.adb.stderr
+│   ├── gpsmain_ada2012_ch01.adb.stdout
+│   ├── gpsmain_ada2012_ch01.ali
+│   ├── gpsmain_ada2012_ch01.bexch
+│   ├── gpsmain_ada2012_ch01.cswi
+│   └── gpsmain_ada2012_ch01.o
+├── README.md
+└── src
+    └── gpsmain_ada2012_ch01.adb
+
+5 directories, 21 files
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github/gps-ada2012-ch01$ 
+
+

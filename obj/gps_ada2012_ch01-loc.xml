@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file>/home/wruslan/github/gps-ada2012-ch01/gps_ada2012_ch01.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/wruslan/github/gps-ada2012-ch01/gps_ada2012_ch01.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github/gps-ada2012-ch01/src/gpsmain_ada2012_ch01.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 59" >
+      <vfs_project>/home/wruslan/github/gps-ada2012-ch01/gps_ada2012_ch01.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github/gps-ada2012-ch01/src/gpsmain_ada2012_ch01.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 19" >
+      <vfs_project>/home/wruslan/github/gps-ada2012-ch01/gps_ada2012_ch01.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github/gps-ada2012-ch01/src/gpsmain_ada2012_ch01.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
