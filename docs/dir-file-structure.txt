@@ -44,4 +44,46 @@ wruslan@HPEliteBook8470p-Ub2004-rt38:~/github/gps-ada2012-ch01$ tree ./
 5 directories, 21 files
 wruslan@HPEliteBook8470p-Ub2004-rt38:~/github/gps-ada2012-ch01$ 
 
+===========================================================
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github/gps-ada2012-ch01$ git add .
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github/gps-ada2012-ch01$ git commit -m 'initial commit'
+[main 9e94e4d] initial commit
+ 22 files changed, 1241 insertions(+), 1 deletion(-)
+ create mode 100644 docs/dir-file-structure.txt
+ create mode 100644 docs/text-ada2012-chap01.txt
+ create mode 100755 exec/gpsmain_ada2012_ch01.adx
+ create mode 100644 figures/Screenshot from 2021-02-13 13-19-17.png
+ create mode 100644 figures/Screenshot from 2021-02-13 13-19-53.png
+ create mode 100644 figures/Screenshot from 2021-02-13 13-20-27.png
+ create mode 100644 figures/Screenshot from 2021-02-13 13-21-03.png
+ create mode 100644 gps_ada2012_ch01.gpr
+ create mode 100644 obj/b__gpsmain_ada2012_ch01.adb
+ create mode 100644 obj/b__gpsmain_ada2012_ch01.ads
+ create mode 100644 obj/b__gpsmain_ada2012_ch01.ali
+ create mode 100644 obj/b__gpsmain_ada2012_ch01.o
+ create mode 100644 obj/gnatinspect.db
+ create mode 100644 obj/gps_ada2012_ch01-loc.xml
+ create mode 100644 obj/gpsmain_ada2012_ch01.adb.stderr
+ create mode 100644 obj/gpsmain_ada2012_ch01.adb.stdout
+ create mode 100644 obj/gpsmain_ada2012_ch01.ali
+ create mode 100644 obj/gpsmain_ada2012_ch01.bexch
+ create mode 100644 obj/gpsmain_ada2012_ch01.cswi
+ create mode 100644 obj/gpsmain_ada2012_ch01.o
+ create mode 100644 src/gpsmain_ada2012_ch01.adb
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github/gps-ada2012-ch01$ 
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github/gps-ada2012-ch01$ git push origin main
+Username for 'https://github.com': wruslangit
+Password for 'https://wruslangit@github.com': 
+Enumerating objects: 30, done.
+Counting objects: 100% (30/30), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (26/26), done.
+Writing objects: 100% (28/28), 290.40 KiB | 12.10 MiB/s, done.
+Total 28 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/wruslangit/gps-ada2012-ch01.git
+   8386ca3..9e94e4d  main -> main
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github/gps-ada2012-ch01$ 
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github/gps-ada2012-ch01$ 
+
 
